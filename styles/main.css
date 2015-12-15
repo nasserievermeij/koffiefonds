@@ -3,13 +3,13 @@ p.large {font-familiy:verdana;font-size:15pt;font-color:#000000;}
 p.normal {font-familiy:verdana;font-size:12pt;font-color:#000000;}
 p.small {font-familiy:verdana;font-size:10pt;font-color:#000000;}
 
-#header {
+header {
     background-color:black;
     color:white;
     text-align:center;
     padding:5px;
 }
-#nav {
+nav {
     line-height:30px;
     background-color:#eeeeee;
     height:300px;
@@ -17,22 +17,22 @@ p.small {font-familiy:verdana;font-size:10pt;font-color:#000000;}
     float:left;
     padding:5px; 
 }
-#section {
+section {
     width:350px;
     float:left;
     padding:10px; 
 }
-#aside {
+aside {
     width:350px;
     float:left;
     padding:10px; 
 }
-#article {
+article {
     width:350px;
     float:left;
     padding:10px; 
 }
-#footer {
+footer {
     background-color:black;
     color:white;
     clear:both;
