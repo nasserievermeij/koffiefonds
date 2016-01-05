@@ -13,7 +13,7 @@ article {
     line-height:30px;
     background-color:#eeeeee;
     height:300px;
-    width:70%;
+    width:60%;
     float:left;
     padding:5px; 
 }
@@ -22,6 +22,7 @@ section {
     float:left;
     padding:10px; 
 }
+
 footer {
     background-color:black;
     color:white;
