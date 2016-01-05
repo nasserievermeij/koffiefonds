@@ -7,9 +7,9 @@ header {
     background-color:black;
     color:white;
     text-align:center;
-    padding:5px;
+    padding:5px; 
 }
-section {
+nav {
     line-height:30px;
     background-color:#eeeeee;
     height:300px;
@@ -17,12 +17,7 @@ section {
     float:left;
     padding:5px; 
 }
-aside {
-    width:350px;
-    float:left;
-    padding:10px; 
-}
-article {
+section {
     width:350px;
     float:left;
     padding:10px; 
