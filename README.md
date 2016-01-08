@@ -3,10 +3,11 @@ MountainBikeSite
 
 1. [ ] Template
    * [ ] CSS
-      * [ ] layout (valentijn)
-      * [ ] kleur  (cuno)
+      * [ ] layout (Valentijn)
+      * [ ] kleur  (Cuno)
    * [ ] HTML
-      * [ ] layout (valentijn)
+      * [ ] layout (Valentijn)
+      * [x] Menubalk (Valentijn)
 2. [ ] Kaart
 3. [ ] Teksten
 4. [ ] Foto's
