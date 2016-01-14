@@ -11,6 +11,10 @@ header {
     padding:5px; 
 }
 
+body {
+    background-image: url("images/background.JPG");
+}
+
 section.1 {
     width:25%;
     float:right;
