@@ -13,7 +13,8 @@ header {
 
 body {
     background-image: url("https://raw.githubusercontent.com/nasserievermeij/koffiefonds/gh-pages/images/background.png");
-        width:1600;
+        width:auto;
+        height:auto;
 }
 
 section.1 {
