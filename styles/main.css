@@ -4,6 +4,7 @@ p.normal {font-familiy:verdana;font-size:12pt;font-color:#000000;}
 p.small {font-familiy:verdana;font-size:10pt;font-color:#000000;}
 /*images*/
 img.map {max-width:25%;}
+img.head {height:110px;}
 header {
     background-color:black;
     color:white;
