@@ -1,0 +1,59 @@
+/*#8B975B*/
+
+@media screen and (max-width: 786px){
+/*Fonts&text*/
+p.large {font-familiy:verdana;font-size:15pt;font-color:#000000;}
+p.normal {font-familiy:verdana;font-size:12pt;font-color:#000000;}
+p.small {font-familiy:verdana;font-size:10pt;font-color:#000000;}
+/*images*/
+img.map {max-width:25%;}
+img.head {height:110px;}
+
+td{width:33%; vertical-align:inherit;}
+table{width:100%;}
+
+header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px; 
+}
+
+body {
+    background-image: url("https://raw.githubusercontent.com/nasserievermeij/koffiefonds/gh-pages/images/mobielachtergrond.png");
+    background-size: cover;
+
+}
+
+section.1 {
+    color:#8B975B;
+    width:80%;
+    padding:8px;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:20px;
+}
+section.2 { 
+    color:#8B975B;
+    width:80%;
+    margin-left:10%;
+    margin-right:10%;
+    margin-bottom:10px;
+    padding:8px; 
+}
+article {
+    color:#8B975B;
+    width:70%;
+    padding:8px;
+    margin-left:15%;
+    margin-right:15%;
+}
+}
+
+footer {
+    background-color:black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+}
