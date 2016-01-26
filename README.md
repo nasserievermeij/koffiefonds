@@ -10,6 +10,8 @@ MountainBikeSite
    * [x] HTML
       * [x] layout (Valentijn)
       * [x] Menubalk (Valentijn)
-2. [ ] Kaart
+2. [x] Kaart
 3. [ ] Teksten
-4. [ ] Foto's
+4. [x] Foto's
+  * [ ] Achtergrond
+  * [x] Andere afbeeldingen
