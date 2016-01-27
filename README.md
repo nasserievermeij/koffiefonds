@@ -6,15 +6,19 @@ MountainBikeSite
 
 [site](http://nasserievermeij.github.io/koffiefonds/testing.html)
 
-1. [ ] Template
-   * [ ] CSS
-      * [x] layout (Valentijn)
-      * [ ] kleur  (Cuno)
-   * [x] HTML
-      * [x] layout (Valentijn)
-      * [x] Menubalk (Valentijn)
-2. [x] Kaart
-3. [ ] Teksten
-4. [x] Foto's
-  * [ ] Achtergrond
-  * [x] Andere afbeeldingen
+1. [ ] contact pagina
+  * [ ] contact pagina via een social media platform (facebook)
+  * [ ] paginanaam
+2. [ ] kaarten pagina
+  * [ ] routes
+     * [ ] een naam
+     * [ ] apparte afbeelding
+     * [ ] iets apparts van die route
+  * [ ] CSS&layout
+     * [ ] 4 apparte vlakken voor de routes
+  * [ ] paginanaam
+3. [ ] main pagina
+  * [ ] teksten
+  * [ ] foto's
+  * [ ] kleur
+  * [x] paginanaam
