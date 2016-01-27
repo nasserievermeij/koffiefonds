@@ -1,0 +1,14 @@
+/* ======================fonts============================== */
+p.large{font-family:verdana;font-size:15pt;font-color:#000000;}
+p.normal{font-family:verdana;font-size:12pt;font-color:#000000;}
+p.small{font-family:verdana;font-size:10pt;font-color:#000000;}
+/* =======================images============================= */
+img.map{max-width:25%;}
+img.head{height:110px;}
+/* =======================table============================== */
+td{width:33%;vertical-align:inherit;}
+table{width:100%;}
+/* =======================layout==============================*/
+header{background-color:black;color:white;text-align:center;padding:5px;}
+body{background-image: url(https://githubusercontent.com/nasserievermeij/koffiefonds/gh-pages/background.jpg);background-size:cover;}
+section.1{width:25%;float:right;margin-bottom:20px;background-color:#F0DEB3;}
