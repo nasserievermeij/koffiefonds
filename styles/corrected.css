@@ -25,8 +25,9 @@ tr.maps{
 td.maps{
   background-color:#79B777;
   width:35%;
-  margin-left:15%;
-  margin-right:15%;
-  margin-bottom:10px;
   padding:8px;
+}
+td.tussen{
+  width:10%;
+  height:20px;
 }
