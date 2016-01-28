@@ -20,3 +20,8 @@ MountainBikeSite
   * [x] foto's
   * [x] kleur
   * [x] paginanaam
+4. [ ] css
+  * [ ] ul li
+  * [ ] lettertype mobiel kleiner
+  * [ ] ¤recht¤
+  * [ ] header images
