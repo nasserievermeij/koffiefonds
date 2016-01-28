@@ -11,7 +11,7 @@ table{width:100%;}
 /* =======================layout==============================*/
 header{background-color:black;color:white;text-align:center;padding:5px;}
 body{background-image: url("https://raw.githubusercontent.com/nasserievermeij/koffiefonds/gh-pages/images/background.jpg");background-size:cover;}
-section.boven{width:30%;float:right;padding:10px;margin-right:10%;margin-bottom:50px;background-color:#F0DEB3;}
-section.onder{width:30%;float:right;padding:10px;margin-right:10%;margin-bottom:50px;background-color:#F0DEB3;}
-article{width:50%;float:left;padding:10px;margin-right:15px;background-color:#F0DEB3;}
-footer{background-color:#F0DEB3;color:white;clear:both;text-align:center;padding:5px;}
+section.boven{width:30%;float:right;padding:10px;margin-right:10%;margin-bottom:50px;background-color:#C9C369;}
+section.onder{width:30%;float:right;padding:10px;margin-right:10%;margin-bottom:50px;background-color:#9C5C36;}
+article{width:50%;float:left;padding:10px;margin-right:15px;background-color:#A4B190;}
+footer{background-color:#402020;color:white;clear:both;text-align:center;padding:5px;}
