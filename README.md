@@ -7,16 +7,15 @@ MountainBikeSite
 1. [ ] contact pagina
   * [x] contact pagina via een social media platform (facebook)
   * [x] paginanaam
-  * [ ] social media buttons
 2. [ ] kaarten pagina
-  * [ ] routes
-     * [ ] een naam
+  * [x] routes
+     * [x] een naam
      * [x] aparte afbeelding
-     * [ ] iets apparts van die route
+     * [x] iets apparts van die route
   * [x] CSS&layout
-     * [ ] 4 apparte vlakken voor de routes
+     * [x] 4 apparte vlakken voor de routes
   * [x] paginanaam
-3. [ ] main pagina
+3. [x] main pagina
   * [x] teksten
   * [x] foto's
   * [x] kleur
