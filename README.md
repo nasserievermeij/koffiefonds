@@ -25,3 +25,4 @@ MountainBikeSite
   * [ ] lettertype mobiel kleiner
   * [ ] ¤recht¤
   * [ ] header images
+  * [ ] achtergrond
