@@ -6,8 +6,8 @@ p.small{font-family:verdana;font-size:10pt;font-color:#000000;}
 img.map{max-width:100%;}
 img.head{height:110px;}
 /* =======================table============================== */
-td{width:33%;vertical-align:inherit;}
-table{width:100%;}
+td.menu{width:33%;vertical-align:inherit;}
+table.menu{width:100%;}
 /* =======================layout==============================*/
 header{background-color:black;color:white;text-align:center;padding:5px;}
 body{background-image: url("https://raw.githubusercontent.com/nasserievermeij/koffiefonds/gh-pages/images/background.jpg");background-size:cover;}
