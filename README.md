@@ -4,21 +4,19 @@ MountainBikeSite
 
 [site](http://nasserievermeij.github.io/koffiefonds/index.html)
 
-[site](http://nasserievermeij.github.io/koffiefonds/testing.html)
-
 1. [ ] contact pagina
   * [ ] contact pagina via een social media platform (facebook)
-  * [ ] paginanaam
+  * [x] paginanaam
 2. [ ] kaarten pagina
   * [ ] routes
      * [ ] een naam
-     * [ ] apparte afbeelding
+     * [x] aparte afbeelding
      * [ ] iets apparts van die route
-  * [ ] CSS&layout
-     * [ ] 4 apparte vlakken voor de routes
-  * [ ] paginanaam
+  * [x] CSS&layout
+     * [x] 4 apparte vlakken voor de routes
+  * [x] paginanaam
 3. [ ] main pagina
-  * [ ] teksten
+  * [x] teksten
   * [ ] foto's
-  * [ ] kleur
+  * [x] kleur
   * [x] paginanaam
