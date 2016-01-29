@@ -13,7 +13,7 @@ td.menu{width:33%;vertical-align:inherit;}
 table.menu{width:100%;}
 /* =======================layout==============================*/
 header{background-color:black;color:white;text-align:center;padding:5px;}
-body{background-image: url("https://raw.githubusercontent.com/nasserievermeij/koffiefonds/gh-pages/images/mobielbackground.jpg");background-size:cover;}
+body{background-image: url("https://raw.githubusercontent.com/nasserievermeij/koffiefonds/gh-pages/images/mobielachtergrond.jpg");background-size:cover;}
 section.boven{width:80%;padding:10px;margin-left:10%;margin-right:10%;margin-bottom:50px;background-color:#8B975B;}
 section.onder{width:80%;padding:10px;margin-left:10%;margin-right:10%;margin-bottom:50px;background-color:#8B975B;}
 article{width:80%;padding:10px;margin-left:10%;margin-right:10%;margin-bottom:50px;background-color:#8B975B;}
