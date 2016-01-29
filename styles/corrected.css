@@ -2,6 +2,8 @@
 p.large{font-family:verdana;font-size:13pt;font-color:#000000;}
 p.normal{font-family:verdana;font-size:12pt;font-color:#000000;}
 p.small{font-family:verdana;font-size:10pt;font-color:#000000;}
+ul{font-family:verdana;font-size:12pt;font-color:#000000;}
+li{font-family:verdana;font-size:12pt;font-color:#000000;}
 /* =======================images============================= */
 img.map{max-width:100%;}
 img.head{height:110px;}
