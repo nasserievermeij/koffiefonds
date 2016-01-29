@@ -22,4 +22,5 @@ footer{background-color:#402020;color:white;clear:both;text-align:center;padding
 table.maps{width:100%;}
 tr.maps{width:100%;height:30px;}
 td.maps{background-color:#79B777;width:41%;padding:8px;}
-td.tussen{width:6%;height:50px;}
+td.tussen{width:6%;}
+tr.tussen{height:50px;}
