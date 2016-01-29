@@ -3,7 +3,7 @@
 ![cunothe1](https://img.shields.io/badge/cunothe1-finished-green.svg)
 ![ev1l0rd](https://img.shields.io/badge/ev1l0rd-finished-green.svg)
 ![jpouw](https://img.shields.io/badge/jpouw-finished-green.svg)
-![](https://img.shields.io/github/issues/nasserievermeij/koffiefonds.svg)
+![issues](https://img.shields.io/github/issues/nasserievermeij/koffiefonds.svg)
 
 
 1. [x] contact pagina
