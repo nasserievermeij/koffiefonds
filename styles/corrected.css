@@ -23,4 +23,4 @@ td.tussen{width:10%;height:20px;}
 
 /* ============social media buttons============================ */
 ul.share-buttons{list-style:none;padding:0;}
-
+ul.share-buttons li{display: inline;}
