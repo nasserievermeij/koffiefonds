@@ -1,9 +1,8 @@
 # koffiefonds
-![deadline](https://img.shields.io/badge/deadline-29--1--16-red.svg)
+![deadline](https://img.shields.io/badge/deadline-29--1--16-green.svg)
 ![cunothe1](https://img.shields.io/badge/cunothe1-finished-green.svg)
 ![ev1l0rd](https://img.shields.io/badge/ev1l0rd-finished-green.svg)
 ![jpouw](https://img.shields.io/badge/jpouw-finished-green.svg)
-![issues](https://img.shields.io/github/issues/nasserievermeij/koffiefonds.svg)
 
 
 1. [x] contact pagina
@@ -28,3 +27,4 @@
   * [x] ¤recht¤
   * [x] header images
   * [x] achtergrond
+5. [ ] Testing
