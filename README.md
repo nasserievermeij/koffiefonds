@@ -3,9 +3,8 @@
 ![cunothe1](https://img.shields.io/badge/cunothe1-finished-green.svg)
 ![ev1l0rd](https://img.shields.io/badge/ev1l0rd-finished-green.svg)
 ![jpouw](https://img.shields.io/badge/jpouw-finished-green.svg)
-MountainBikeSite
+![](https://img.shields.io/github/issues/nasserievermeij/koffiefonds.svg)
 
-[site](http://nasserievermeij.github.io/koffiefonds/index.html)
 
 1. [x] contact pagina
   * [x] contact pagina via een social media platform (facebook)
