@@ -1,4 +1,5 @@
 # koffiefonds
+![finished](https://img.shields.io/badge/finished-true-green.svg)
 ![deadline](https://img.shields.io/badge/deadline-29--1--16-green.svg)
 ![cunothe1](https://img.shields.io/badge/cunothe1-finished-green.svg)
 ![ev1l0rd](https://img.shields.io/badge/ev1l0rd-finished-green.svg)
@@ -27,4 +28,4 @@
   * [x] ¤recht¤
   * [x] header images
   * [x] achtergrond
-5. [ ] Testing
+5. [x] Testing
