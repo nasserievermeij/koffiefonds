@@ -20,3 +20,7 @@ table.maps{width:100%;}
 tr.maps{width:100%;height:30px;}
 td.maps{background-color:#79B777;width:35%;padding:8px;}
 td.tussen{width:10%;height:20px;}
+
+/* ============social media buttons============================ */
+ul.share-buttons{list-style:none;padding:0;}
+
