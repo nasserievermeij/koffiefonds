@@ -29,3 +29,4 @@
   * [x] header images
   * [x] achtergrond
 5. [x] Testing
+6. [ ] Mandarijn plaatsen
